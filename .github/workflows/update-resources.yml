@@ -11,15 +11,18 @@ jobs:
     steps:
       - name: checkout
         uses: actions/checkout@v3
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+          fetch-depth: 0    # Fetch all history for .GitInfo and .Lastmod
       - name: setup hugo
         uses: peaceiris/actions-hugo@v2
         with:
           extended: true
-          hugo-version: 0.91.2
+          hugo-version: 'latest'
       - name: setup node
         uses: actions/setup-node@v3
         with:
-          node-version: 14
+          node-version: 16
       - name: install
         run: |
           npm ci
@@ -31,10 +34,11 @@ jobs:
           key: ${{ runner.os }}-node-${{ hashFiles('**/package-lock.json') }}
           restore-keys: |
             ${{ runner.os }}-node-
-      - name: build
-        run: npm run build
-      - name: commit resources
-        uses: stefanzweifel/git-auto-commit-action@v4
+      - name: Build
+        run: hugo --minify
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        if: github.ref == 'refs/heads/main'
         with:
-          commit_message: 'chore: build resources'
-          file_pattern: resources/** exampleSite/resources/**
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./public

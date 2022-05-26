@@ -1,0 +1,12 @@
+[en]
+title = "Personal Blog"
+weight = 1
+LanguageName = "EN"
+contentDir = "content/english"
+
+[es]
+title = "Blog Personal"
+description = "Sitio en construccion, pronto se podran disfrutar mis publicaciones en tecnologias de software en la nube y backend"
+contentDir = "content/spanish"
+weight = 2
+LanguageName = "ES"
