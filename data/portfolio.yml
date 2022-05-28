@@ -1,56 +1,78 @@
 portfolioitems:
   # portfolio category
-  - title: Coding Projects
+  - title: Still Living Projects
     portfolioitem:
-      - name: Project 1
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        linktext: 'Visit project website'
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+      - name: Adan Farmacia
+        image: '/images/portfolio/adan.png'
+        link: https://adanfarmacia.com/
+        linktext: 'Visit AdanFarmacia.com'
+        description: 'This is an eCommerce site focused on medicine for the Venezuelan market to easy up the way the get medicine, allowing them to order everything online and receive their order in their homes. this apps uses GCP, odoo, node.js, react, react native.'
         tags:
-          - Tag 1
-          - Tag 2
-        status: 'Finished'
+          - drugstore
+          - ecommerce
+        status: 'Maintenance and Upgrades'
         start: '2020'
-        end: '2021'
+        end: 'Still'
         authors:
-          - lxndrblz
-          - alexanderdavide
-      - name: Project 2
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
-        status: 'On Hold'
-        tags:
-          - Tag 1
-          - Tag 2
-      - name: Project 3
-        link: https://gohugo.io/
+          - 300Devs
+          - Modu
+      - name: Creditwit
+        image: '/images/portfolio/creditwit.png'
+        link: https://creditwit.app/
+        linktext: 'Visit creditwit.app'
+        description: "This is an App requested from Acredita when I was part of a company that born from YEiPii's ash (KriolloTech). We plan, design and build this app from the ground up, with MongoDB, Node.js, AWS Infrastructure and Angular as de FE framework."
         status: 'Finished'
-        description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.'
+        authors:
+          - KriolloTech
         tags:
-          - Tag 1
-          - Tag 2
+          - MongoDB
+          - AWS
+          - EC2
+          - KriolloTech
+          - Finance
+      - name: Macutrol
+        authors:
+          - Agustín Negrín
+        image: '/images/portfolio/macutrol.png'
+        link: https://macutrol.macuples.com/
+        linktext: 'Visit macutrol.macuples.com'
+        status: 'Finished'
+        description: 'This is a side project I did for a friend, a side project which result in a useful registry book for inlet and outlet money for the macuples company, wich help in take decisions based on data, I did this application from the ground up with firestore as my DB Firebase Auth as my Authentication system and Flutter as my FrontEnd Framework.'
+        tags:
+          - Flutter
+          - Firebase
+          - Minimalistic Money Registry
+          - Query money movements to get insights
   # portfolio category
-  - title: Research
+  - title: Failed Projects
     portfolioitem:
-      - name: Project 1
-        image: '/images/portfolio/code.jpg'
-        description: 'This project does not have a link attribute'
+      - name: Koroto
+        authors:
+          - 300Devs
+        image: '/images/portfolio/koroto.png'
+        description: 'It was innevitable that after all the noise YEiPii did as the first Venezuelan eWallet, others try to get on the boat too, after YEiPii close operations in Venezeula, Koroto team Call me to use All my YEiPii knowledge to help the app kick the Venezuelan market the best way. I happily accept to join the team and help them to build a roubust almost error free BackEnd services connected to Stripe, Paypal, Quickbooks, BOFA email notifications and Firebase'
         tags:
-          - Tag 1
-          - Tag 2
-      - name: Project 2
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'You can click on [**this link**](#codingprojects) to scroll to my Coding Projects portfolio'
+          - Paypal Integration
+          - Stripe Integration
+          - Quickbooks Integration
+          - Firebase
+          - DB Optimization
+          - BE Validations
+
+      - name: YEiPii
+        authors:
+          - YEiPii Team
+        image: '/images/portfolio/yeipii.png'
+        description: 'This was my wall to hit when facing a real world app already developed and being used in a production enviroment. A project that was very fast coded, a lot of flaws and a lot to learn from. In this project I develop my love to MongoDB and my hate to mongoose. :-) '
         tags:
-          - Tag 1
-          - Tag 2
-      - name: Project 3
-        image: '/images/portfolio/code.jpg'
-        link: https://gohugo.io/
-        description: 'A description'
-        tags:
-          - Tag 1
-          - Tag 2
+          - YEiPii
+          - AWS Infrastructure
+          - Lambda
+          - EC2
+          - SES
+          - eWallet
+          - Venezuela
+          - Official DirecTV Payment Method
+          - Official UNIMET payment Method
+          - Official BurgerShack Mass Salary processor
+

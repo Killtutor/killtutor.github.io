@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal Blog</title>
+    <link>https://killtutor.github.io/</link>
+    <description>Recent content on Personal Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language><atom:link href="https://killtutor.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://killtutor.github.io/about/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://killtutor.github.io/about/</guid>
+      
+        <description>This page is all about me, what inspires me and what goals do I have.</description>
+      
+    </item>
+    
+    <item>
+      <title>Certifications</title>
+      <link>https://killtutor.github.io/certifications/</link>
+      <pubDate>Fri, 27 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://killtutor.github.io/certifications/</guid>
+      
+        <description>My most recent/not expiring certifications</description>
+      
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://killtutor.github.io/contact/</link>
+      <pubDate>Tue, 24 May 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://killtutor.github.io/contact/</guid>
+      
+        <description>Contact Page</description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://killtutor.github.io/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://killtutor.github.io/archives/</guid>
+      
+        <description></description>
+      
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://killtutor.github.io/imprint/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://killtutor.github.io/imprint/</guid>
+      
+        <description>Legal Disclosure Information in accordance with the applicable law
+Negrín Agustín</description>
+      
+    </item>
+    
+  </channel>
+</rss>

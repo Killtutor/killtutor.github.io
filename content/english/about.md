@@ -1,25 +1,23 @@
 +++
 title = "About"
-description = "Hugo, the world's fastest framework for building websites"
-date = "2019-02-28"
-aliases = ["about-us", "about-hugo", "contact"]
-author = "Hugo Authors"
+description = "This page is all about me, what inspires me and what goals do I have."
+date = "2022-05-27"
+aliases = ["about-us", "about-hugo", "contact", "about", "description"]
+author = "Agustín Negrín"
 +++
 
-Written in Go, Hugo is an open source static site generator available under the [Apache License 2.0.](https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
+I'm a self learner, adventurer, All-Roads type of person, who loves to be challenged with problems to be solved and to help in finding and fixing problems.
+I'm happy being in a team as so in solo missions, I've the opportunity to work with AWS enviroment as so with GCP enviroment, working with cloud tools to build cloud solutions that were/are deployed wight now. It's been 4 years since I join the software workforce, and focus on my code skills and knowledge to be able to build enterprise and real life solutions
 
-Hugo makes use of a variety of open source projects including:
+Here are my principal and most practiced software tools:
 
-- https://github.com/yuin/goldmark
-- https://github.com/alecthomas/chroma
-- https://github.com/muesli/smartcrop
-- https://github.com/spf13/cobra
-- https://github.com/spf13/viper
+- [NodeJs](https://nodejs.org/)
+- [Typescript](https://www.typescriptlang.org/)
+- [GCP enviroment](https://cloud.google.com/)
+- [Bash Scripts](https://devhints.io/bash)
+- [Python](https://www.python.org/)
+- [NoSQL](https://www.mongodb.com/nosql-explained)
+- [AWS Enviroment](https://aws.amazon.com/)
+- [MongoDB](https://www.mongodb.com/nosql-explained)
 
-Hugo is ideal for blogs, corporate websites, creative portfolios, online magazines, single page applications or even a website with thousands of pages.
-
-Hugo is for people who want to hand code their own website without worrying about setting up complicated runtimes, dependencies and databases.
-
-Websites built with Hugo are extremely fast, secure and can be deployed anywhere including, AWS, GitHub Pages, Heroku, Netlify and any other hosting provider.
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
+Obviusly I just know a little bit more that Jhon Snow, but hey! with this blog I'm just trying to help and share my knowledge :-) I hope you can enjoy it.
