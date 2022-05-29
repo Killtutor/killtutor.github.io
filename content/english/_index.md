@@ -2,6 +2,11 @@
 author = "Agustín Negrín"
 +++
 
+# Hello! :wave: and Welcome.
+
+This is the Minimalistic website that I built with [Hugo](https://gohugo.io/) and the template [Anatole](https://github.com/lxndrblz/anatole), because I'm a BackEnd Software Engineer, not a FrontEnd or Designer type of person :laughing: . This site is intended only to show off a little bit of myself and to increase my online footPrint.
+
+Here you'll find some tips and maybe some answers to your daily developer problems because I'll post some tips & tricks, personal knowledge and more, so, stay tuned. :rocket:
 <!--
 This file is left intentionally empty by default to be backwards compatible with the initial theme setup.
 

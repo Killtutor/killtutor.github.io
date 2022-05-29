@@ -6,7 +6,7 @@ portfolioitems:
         image: '/images/portfolio/adan.png'
         link: https://adanfarmacia.com/
         linktext: 'Visit AdanFarmacia.com'
-        description: 'This is an eCommerce site focused on medicine for the Venezuelan market to easy up the way the get medicine, allowing them to order everything online and receive their order in their homes. this apps uses GCP, odoo, node.js, react, react native.'
+        description: 'This is an eCommerce site focused on medicine for the Venezuelan market to ease up the way they get medicine, allowing them to order everything online and receive their order in their homes. this app uses GCP, odoo, node.js, react, react-native.'
         tags:
           - drugstore
           - ecommerce
@@ -20,7 +20,7 @@ portfolioitems:
         image: '/images/portfolio/creditwit.png'
         link: https://creditwit.app/
         linktext: 'Visit creditwit.app'
-        description: "This is an App requested from Acredita when I was part of a company that born from YEiPii's ash (KriolloTech). We plan, design and build this app from the ground up, with MongoDB, Node.js, AWS Infrastructure and Angular as de FE framework."
+        description: "This is an App requested from Acredita when I was part of a company that was born from YEiPii's ash (KriolloTech). We plan, design and build this app from the ground up, with MongoDB, Node.js, AWS Infrastructure and Angular as de FE framework."
         status: 'Finished'
         authors:
           - KriolloTech
@@ -50,7 +50,7 @@ portfolioitems:
         authors:
           - 300Devs
         image: '/images/portfolio/koroto.png'
-        description: 'It was innevitable that after all the noise YEiPii did as the first Venezuelan eWallet, others try to get on the boat too, after YEiPii close operations in Venezeula, Koroto team Call me to use All my YEiPii knowledge to help the app kick the Venezuelan market the best way. I happily accept to join the team and help them to build a roubust almost error free BackEnd services connected to Stripe, Paypal, Quickbooks, BOFA email notifications and Firebase'
+        description: 'It was inevitable that after all the noise YEiPii did as the first Venezuelan eWallet, others try to get on the boat too, after YEiPii closed operations in Venezuela, the Koroto team Call me to use All my YEiPii knowledge to help the app kick the Venezuelan market the best way. I happily accept to join the team and help them to build a robust almost error-free BackEnd services connected to Stripe, Paypal, Quickbooks, BOFA email notifications and Firebase'
         tags:
           - Paypal Integration
           - Stripe Integration
@@ -63,7 +63,7 @@ portfolioitems:
         authors:
           - YEiPii Team
         image: '/images/portfolio/yeipii.png'
-        description: 'This was my wall to hit when facing a real world app already developed and being used in a production enviroment. A project that was very fast coded, a lot of flaws and a lot to learn from. In this project I develop my love to MongoDB and my hate to mongoose. :-) '
+        description: 'This was my wall to hit when facing a real-world app already developed and being used in a production environment. A project that was very fast coded, lot of flaws and a lot to learn from. In this project, I develop my love for MongoDB and my hate for mongoose. ☺️'
         tags:
           - YEiPii
           - AWS Infrastructure

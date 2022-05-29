@@ -2,7 +2,8 @@
 title = "Soy Agustín Negrín"
 author = "Negrín Agustín"
 copyright = "2022-2023"
-description = "Call me Tin"
+contentratio = 0.72
+description = "but, Call me Tin"
 profilePicture = "images/profile.webp"
 keywords = ""
 favicon = "favicons/"
