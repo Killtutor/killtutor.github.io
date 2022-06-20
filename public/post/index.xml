@@ -1,10 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Personal Blog</title>
+    <title>Posts on I&#39;m Agustín</title>
     <link>https://killtutor.github.io/post/</link>
-    <description>Recent content in Posts on Personal Blog</description>
+    <description>Recent content in Posts on I&#39;m Agustín</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://killtutor.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sat, 18 Jun 2022 12:00:00 +0000</lastBuildDate><atom:link href="https://killtutor.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The power of aliases 🦍</title>
+      <link>https://killtutor.github.io/post/aliases-power/</link>
+      <pubDate>Sat, 18 Jun 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://killtutor.github.io/post/aliases-power/</guid>
+      
+        <description>What is an alias? 🧩 It could be your nickname or the username for your favorite video game, you got it but, the alias I&amp;rsquo;m trying to show you is the alias used by most command languages like the bash shield, git CLI, among others.</description>
+      
+    </item>
+    
+    <item>
+      <title>My first post 🤩</title>
+      <link>https://killtutor.github.io/post/first-post/</link>
+      <pubDate>Sun, 29 May 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://killtutor.github.io/post/first-post/</guid>
+      
+        <description>I&amp;rsquo;m Super Excited 🤘 You can&amp;rsquo;t imagine how excited I am to have my own website, I can finally share my thoughts and knowledge to show off my skills and that I&amp;rsquo;m not a fraud 😆 .</description>
+      
+    </item>
+    
   </channel>
 </rss>
