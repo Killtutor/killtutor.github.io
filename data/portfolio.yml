@@ -2,6 +2,22 @@ portfolioitems:
   # portfolio category
   - title: Still Living Projects
     portfolioitem:
+      - name: Kompii
+        image: '/images/portfolio/kompii.png'
+        link: https://www.kompii.com/
+        linktext: "Visit Kompii"
+        description: "This is an Lending money application that focus on venezuelan and dominican republic markets for now, but aiming to conquer the world by its easy to use and straight forward lending request and management"
+        tags: 
+          - Money
+          - Lend
+          - Debts
+          - Payments
+        status: Stable platform, still growing and upgrading
+        start: '2023'
+        end: 'Still'
+        authors: 
+          - AvilaTek
+          - Kompii Dev Team
       - name: Adan Farmacia
         image: '/images/portfolio/adan.png'
         link: https://adanfarmacia.com/
@@ -12,7 +28,7 @@ portfolioitems:
           - ecommerce
         status: 'Maintenance and Upgrades'
         start: '2020'
-        end: 'Still'
+        end: '2023'
         authors:
           - 300Devs
           - Modu
